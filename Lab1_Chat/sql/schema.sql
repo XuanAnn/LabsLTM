@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS ltm_chat CHARACTER SET utf8mb4;
+USE ltm_chat;
+CREATE TABLE IF NOT EXISTS chat_messages (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    target_type VARCHAR(20) NOT NULL,
+    sender VARCHAR(255) NOT NULL,
+    target VARCHAR(255) NOT NULL,
+    content LONGTEXT NOT NULL,
+    sent_at BIGINT NOT NULL
+);

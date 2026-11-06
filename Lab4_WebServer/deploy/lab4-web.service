@@ -1,0 +1,17 @@
+[Unit]
+Description=Lab 4 media library
+After=network.target mysql.service
+Wants=mysql.service
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/Lab4_WebServer
+ExecStart=/bin/bash /home/ubuntu/Lab4_WebServer/run-server.sh 80
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+CapabilityBoundingSet=CAP_NET_BIND_SERVICE
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

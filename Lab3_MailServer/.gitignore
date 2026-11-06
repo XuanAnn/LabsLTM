@@ -1,0 +1,8 @@
+target/
+data/
+downloads/
+*.log
+*.db
+*.db-*
+config/gmail.local.properties
+server/data/

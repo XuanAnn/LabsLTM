@@ -1,0 +1,5 @@
+groupId: group_002
+groupName: Before restart
+multicastAddress: 230.0.0.2
+multicastPort: 50001
+members: test1

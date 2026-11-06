@@ -1,0 +1,6 @@
+target/
+data/
+downloads/
+*.log
+*.db
+*.db-*

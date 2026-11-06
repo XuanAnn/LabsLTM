@@ -1,0 +1,5 @@
+groupId: group_002
+groupName: 123
+multicastAddress: 230.0.0.1
+multicastPort: 50001
+members: an123

@@ -1,0 +1,5 @@
+groupId: group_003
+groupName: 321
+multicastAddress: 230.0.0.2
+multicastPort: 50002
+members: an123

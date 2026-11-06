@@ -1,0 +1,17 @@
+Nguồn nội dung thư viện
+
+- Moonlight Sonata: Beethoven; biểu diễn Juan Felipe Arjona, CC BY 2.5.
+  https://commons.wikimedia.org/wiki/File:Moonlight.ogg
+- Hoa và ong: video quay thực tế trong bộ MDN interactive-examples, CC0.
+  https://github.com/mdn/interactive-examples/tree/main/live-examples/media/cc0-videos
+  Ảnh hoa: trích khung hình từ video này.
+- Sintel (trích đoạn): © copyright Blender Foundation | www.sintel.org, CC BY 3.0.
+  https://commons.wikimedia.org/wiki/File:Sintel_webm_extract.webm
+- Trái Đất từ Apollo 17: NASA / Apollo 17 crew, public domain.
+  https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg
+- RFC 9110: Fielding, Nottingham, Reschke; IETF / RFC Editor, tháng 6/2022.
+  PDF nguyên bản, giữ thông báo bản quyền và điều khoản trong tài liệu.
+  https://www.rfc-editor.org/rfc/rfc9110.pdf
+  https://trustee.ietf.org/license-info/
+
+Các file OGG, WebM, JPG và PDF được lưu tại server, không stream trực tiếp từ website ngoài.

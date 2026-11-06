@@ -1,0 +1,5 @@
+groupId: group_004
+groupName: UDP test
+multicastAddress: 230.0.0.3
+multicastPort: 50002
+members: multicast2, multicast1

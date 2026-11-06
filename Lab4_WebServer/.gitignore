@@ -1,0 +1,10 @@
+target/
+data/
+downloads/
+*.log
+*.db
+*.db-*
+browser-runtime/
+browser-cache/
+!public/media/downloads/
+!public/media/downloads/**

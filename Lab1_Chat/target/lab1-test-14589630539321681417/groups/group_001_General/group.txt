@@ -1,0 +1,5 @@
+groupId: group_001
+groupName: General
+multicastAddress: 230.0.0.1
+multicastPort: 50000
+members: 
